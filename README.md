@@ -1,4 +1,4 @@
 # Project-1
 This is my first Git Repository.
 <br>
-Author - Akshita Maheshwari
+Author - Akshita Maheshwari . I am a student.
